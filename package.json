@@ -1,0 +1,25 @@
+{
+  "name": "responsi",
+  "version": "1.0.0",
+  "description": "== Theme Name: Velox - Free Html5 Portfolio One Page Template",
+  "main": "service-worker.js",
+  "scripts": {
+    "start ":"node index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarisiddiq/responsi.git"
+  },
+  "keywords": [],
+  "author": "mastari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarisiddiq/responsi/issues"
+  },
+  "homepage": "https://github.com/tarisiddiq/responsi#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {}
+}
